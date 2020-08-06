@@ -7,7 +7,7 @@
 
 [Sebastian Deterding](https://codingconduct.cc/): External member
 
-## [Link to Proposal](https://www.overleaf.com/read/hpvtrnpjfqgf)
+## [Link to Proposal](https://www.overleaf.com/project/5ef190a0d655850001b3d694)
 
 ## Justification of Committee
 Seth and Magy are Josh's co-advisors.
